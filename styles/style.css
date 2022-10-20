@@ -1,0 +1,46 @@
+html {
+    font-size: 10px;
+    font-family: 'Tangerine', cursive;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  p, l1 {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 1px;
+    color: white;
+  }
+
+  ul {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 1px;
+    color: white;
+  }
+  html {
+    background-color: #177717;
+  }
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #271777;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #177717;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  a {
+    color: aqua;
+  }
