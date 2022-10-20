@@ -1,0 +1,10 @@
+Working through the Getting started witht the web tutorial from Mozilla that the Electron getting started page says to go use.
+Color 1: #177717 (this is a green)
+Color 2: #271777 (This is a blue-ish purple)
+Cube image
+Font: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tangerine&display=swap" rel="stylesheet">
+For CSS font-family: 'Tangerine', cursive;
+
+Also, use hyphens-for-spaces instead of uing camelCase #consistency
